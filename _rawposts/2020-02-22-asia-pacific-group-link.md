@@ -28,13 +28,13 @@ Marathis have a pretty good population in India and are concentrated in states l
 ## Tamil Whatsapp Group Link
 
 Tamilians love to share and enjoy content in their mother tongue. In fact, they also enjoy putting up tamil status for whatsapp. Being one of the most widely spoken languages in Southern India has helped tamil whatsapp groups gain tremendous popularity. Hence, we decided to list some of the most popular tamil whatsapp groups so that you can join the ones of your choice and be part of one of the most active Indian communities out there. So go on ahead and check out the whatsapp groups list. 
-!! insert_group_list("",["o","tamil","chennai"], "Tamil Whatsapp Group Links","button",[0,25])
+!! insert_group_list("",["o","tamil","chennai"], "Tamil Whatsapp Group Links","button",[0,25], "south")
 
 ## Kerala Whatsapp Group Link 
 
 Kerala is a state dominated by Malayalis, who are supremely creative, fond of art and music. They can be considered creators of good quality content. This is why malayalam whatsapp group links are famous and creative status for whatsapp in malayalam has become an important search item for these creators from Kerala. Most whatsapp group links malayalam  help in generating a sense of togetherness between people of the same identity who enjoy similar creative content. In fact, there are several kerela lottery whatsapp groups too, because malayalis enjoy betting on lotteries. So let's check out some of the interesting kerala whatsapp group links.
 
-!! insert_group_list("",["o","kerala","malayalam","mallu","malayali"], "Kerala Whatsapp Group Links","button",[0,25])
+!! insert_group_list("",["o","kerala","malayalam","mallu","malayali"], "Kerala Whatsapp Group Links","button",[0,25],"south")
 
 ## Bihar Whatsapp Group Link
 

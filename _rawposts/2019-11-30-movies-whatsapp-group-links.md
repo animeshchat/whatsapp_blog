@@ -19,13 +19,13 @@ Hindi Films in the bollywood industry is massive in India. It is in fact one of 
 
 This is just the place for movie buffs who are looking for the latest in hindi cinema that can be downloaded and stored so that poor connectivity doesn't hamper their entertainment time, especially during long commutes. It's the perfect place for all the Salman Khan, Shahrukh Khan, Rajnikanth fans out there because with apps such as Whatsapp one can get all the movies and news updates of their favourite actors and actresses, mainly because Whatsapp now has invitation links to open groups, which can be used to join any groups that one is interested in. This is a great feature launched by WhatsApp and is useful in connecting with people who share similar interests. Here, we will be talking about some of the entertaining Whatsapp groups for movies and TV shows available which can be joined for free. Other than just hindi films, many of you may also be interested in latest telugu movies, new tamil movies, new malayalam movies, bhojpuri film or odia movies. That's why we have listed not only latest bollywood movies, but also regional new movies. Whether you like old bollywood actors movies or latest priyanka chopra movies, you will be able to find Whatsapp group links suiting your interest. So go on ahead and check out the list of whatsapp groups for movies. To join the Indian movies Whatsapp group links, all you need to do is click on Join Chat and then join group. 
 
-!! insert_group_list("movies",[], "Bollywood Movies Whatsapp Groups","button",[25,75]) 
+!! insert_group_list("movies",[], "Bollywood Movies Whatsapp Groups","button",[25,75], "bollywood") 
 
 ## Latest bollywood news Whatsapp Group Links 
 
 In case you are looking for bollywood news instead of new hindi movie downloads, you can view the following list of Whatsapp group links. These groups will provide both latest news related to upcoming bollywood movies and gossip such as salman khan latest news or srk latest news. If you would like to receive latest bollywood news in hindi, then there are Whatsapp groups available for that too. So let's move further and take a look at 
 
-!! insert_group_list("",["a","bollywood","news"],"Bollywood News Whatsapp Group","button",[0,25]) 
+!! insert_group_list("",["a","bollywood","news"],"Bollywood News Whatsapp Group","button",[0,25], "entertainment") 
 
 ## Hollywood movie Whatsapp group link
 

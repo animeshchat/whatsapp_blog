@@ -63,7 +63,7 @@ With whatsapp having become the most popular app, and with whatsapp launching th
 
 In this section, I have shared a long list of active WhatsApp group links for news, current affairs and information. Joining these groups will enable you to stay upto date with current affairs and breaking news on a daily basis. Whether you're interested in National News, Politics, International News or even news from your own city or language, simply join the right groups and you'll start receiving news directly within WhatsApp. Isn't this great?! So get started and join some news related whatsapp groups. 
 
-!! insert_group_list("news", [], "News WhatsApp Group India", "link", [0,50]) 
+!! insert_group_list("news", [], "News WhatsApp Group India", "link", [0,50], "news") 
 
 <br />
 The complete list of <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">WhatsApp groups for NEWS & CURRENT AFFAIRS is here</a>.
@@ -84,7 +84,7 @@ You'll find many more <a href="{{site.baseurl}}/news-whatsapp-group-links" targe
 
 Below is a huge list of active groups for PUBG fans and gamers. You can join as many groups as you'd like for free and then use them to discuss gaming strategies, opinions and views. You can also use these groups to find and join tournaments and try to earn some money online while also enjoying playing PUBG. So if you're passionate about PUBG and want to find similar friends, go ahead and join a few of the groups listed below.  
 
-!! insert_group_list("pubg", [], "PUBG Tournaments India", "anchor", [0,30]) !!
+!! insert_group_list("pubg", [], "PUBG Tournaments India", "anchor", [0,30], "gaming") !!
 
 <br />
 The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
@@ -95,7 +95,7 @@ The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" targ
 
 Fond of movies and want to find friends who like similar movies as well? Want to discuss and review the latest movies? Maybe you want to discover the best movies in any Indian language or state. Or you want to simply watch and share viral video clips and songs from famous movies. Then you must join the following whatsapp groups for movie buffs.
 
-!! insert_group_list("movies", [], "Movies WhatsApp Group India", "button", [0,50]) 
+!! insert_group_list("movies", [], "Movies WhatsApp Group India", "button", [0,50], "movies") 
 
 <br />
 Lots more movie whatsapp group links here.
@@ -117,7 +117,7 @@ You'll find many many more <a href="{{site.baseurl}}/shopping-deals-whatsapp-gro
 
 What better than some beautiful and thoughtful shayari and ghazals delivered on WhatsApp through the day. No doubt it is really hard to find good Shayari WhatsApp Group Links on the internet. But you know what - we have searched all over the internet and found the best active WhatsApp group links for sharing shayari. 
 
-!! insert_group_list("shayari", [], "Shayari WhatsApp Groups India", "anchor", [0,80]) 
+!! insert_group_list("shayari", [], "Shayari WhatsApp Groups India", "anchor", [0,80], "motivation") 
 
 <br />
 If you're fond of shayari, a lot more shayari whatsapp group links are here.
@@ -128,7 +128,7 @@ If you're fond of shayari, a lot more shayari whatsapp group links are here.
 Would you like to earn money while sitting at home? You can do that easily nowadays by making money online, provided you are willing to put in effort to learn. All you have to do is identify your interest area - areas where you believe you have additional knowledge over others. Then you can start blogs, or groups or even youtube channels - all of which pays out ad money to the creator when they have lots of views and subscribers. This is not all - there are many more ways to make money online. Join some of these groups which discuss strategies to earn money online. 
 
 
-!! insert_group_list("earn", [], "Earn Money WhatsApp Groups India", "anchor", [0,50]) 
+!! insert_group_list("earn", [], "Earn Money WhatsApp Groups India", "anchor", [0,50], "recent") 
 
 ## **Business** Whatsapp Group Link 
 

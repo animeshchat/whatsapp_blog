@@ -45,14 +45,14 @@ Now that we’ve understood steps to join whatsapp group links and discussed the
 
 Several jokes categories such as kanpuriya comedy, chutkule, or dirty jokes are very popular amongst most people. If you are interested in sending and receiving such funny jokes or check out other categories such as funny anniversary quotes, funny valentines day quotes, or you like to watch funny videos on whatsapp, then you should take a look at the whatsapp group links listed below. From jokes in hindi for whatsapp, whatsapp status jokes, to whatsapp chutkule, the list comprises of everything you will be set out to look for. By joining one of these, you will get awesome whatsapp memes every day and can even find a good community of like-minded individuals. So let’s take a look at the list of links which you can use to make jokes, 
 
-!! insert_group_list("memes", [], "Funny WhatsApp Groups", "button", [50,100]) 
+!! insert_group_list("memes", [], "Funny WhatsApp Groups", "button", [50,100], "memes") 
 
 <br />
 ## Whatsapp memes group links 
 
 If you are interested in receiving funny memes such as pubg memes, relationship memes, exam memes, tik tok memes, food memes, bollywood memes or engineering meme, then look no further. We have got some amazing group links catering only to memes belonging to all your favourite categories. All these groups have latest memes on current topics that you can forward to your friends and family to share a good laugh. Browse and join as many as you like.
 
-!! insert_group_list("memes", [], "Memes WhatsApp Group", "link", [0,50]) 
+!! insert_group_list("memes", [], "Memes WhatsApp Group", "link", [0,50], "entertainment") 
 
 Don't worry, this is not it. We are aware that many of you are searching for funny whatsapp group name list. Therefore, we will list some of the most creative and funny names we have found to help you out and provide you several options. 
 

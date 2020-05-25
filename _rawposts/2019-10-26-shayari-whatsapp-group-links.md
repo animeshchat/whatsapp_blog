@@ -49,7 +49,7 @@ Now that we’ve understood steps to join whatsapp group links and discussed the
  
 Below is the list of shayari group links you have been searching for. By joining one of these whatsapp groups, you will be able to send and receive awesome love shayaris every day and can even find a good community of like-minded individuals. So let’s take a look at the list.
 
-!! insert_group_list("shayari",[],"Shayari WhatsApp Groups", "button", [0,50]) 
+!! insert_group_list("shayari",[],"Shayari WhatsApp Groups", "button", [0,50], "motivation") 
 
 <br/>
 Hope you guys found what you were looking for. In case you want to check out whatsapp groups in many other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members. 

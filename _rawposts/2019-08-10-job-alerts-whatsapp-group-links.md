@@ -54,7 +54,7 @@ It’s important to adhere to the group rules in order to maintain the usefulnes
 
 Below you will find 5000+ whatsapp groups links which provide job alerts for India as well as international locations. International locations mainly comprise Gulf jobs, Malaysia, Maldives, Africa and some more. You can specifically shortlist groups offering technical jobs if that’s what interests you. We would suggest that you check all your options and join the groups which are most likely to provide maximum benefit by sending most relevant job opportunities to you. So let's take a look at the list we have been talking about: 
 
-!! insert_group_list("jobs", [], "Job Alerts WhatsApp Groups", "button", [80,120])
+!! insert_group_list("jobs", [], "Job Alerts WhatsApp Groups", "button", [80,120], "recent")
  
 <br />
 ## Job Alerts on Mobile 
@@ -76,7 +76,7 @@ Many of you are interested in new business opportunities and are looking for the
 <li> MLM whatsapp group for multi-level-marketing business opportunities, and more </li></ul>
 So let's take a look at all the business whatsapp group links below:
 
-!! insert_group_list("", ["o", "business","mlm","import","export","textile","online business"], "Business WhatsApp Groups", "link", [20,70]) 
+!! insert_group_list("", ["o", "business","mlm","import","export","textile","online business"], "Business WhatsApp Groups", "link", [20,70], "recent") 
 
 We hope that you have found the WhatsApp group link of your choice in the Jobs or Business category. If you are interested in finding more WhatsApp groups in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
 

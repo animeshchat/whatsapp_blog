@@ -20,13 +20,13 @@ In order to help students find the useful study whatsapp group links and join re
 
 Amongst all the study groups out there, we will first be listing all the whatsapp groups for students that are preparing or planning to start preparations for entrace exams such as graduate management admission test, gre test, upsc, ias, icai and so on. Sure, there are existing forums for each of these exam preparation such as the GMAT club, which have several resources, however, we believe that whatsapp groups are not only easier to access but give a better sense of community and help in receiving real-time feedback from fellow students. This is why, study groups have recently gained popularity on whatsapp. Below you can find the exam specific whatsapp groups. Try them out!  
 
-!! insert_group_list("",["o","gmat","gre","icai","upsc","study","ias","ipcc","ielts","cat","sat","toefl"], "Exam Study Groups","button",[0,25]) 
+!! insert_group_list("",["o","gmat","gre","icai","upsc","study","ias","ipcc","ielts","cat","sat","toefl"], "Exam Study Groups","button",[0,25], "learn") 
 
 ## General study groups on Whatsapp 
 
 Next, we shall look into the whatsapp study group links corresponding to general topics such as learning spoken english, english grammar basics, general knowledge related groups such as gk questions, gk for railway, iq test, and so on. Below is the list of whatsapp group links. 
 
-!! insert_group_list("",["o","english","iq","gk","math","science"], "General Study Groups","button",[0,25]) 
+!! insert_group_list("",["o","english","iq","gk","math","science"], "General Study Groups","button",[0,25], "learn") 
 
 <br/>
 Hope all the students found the relevant whatsapp study group links related to graduate management admission test, gre test, cat exam and so on. In case, you want to check out whatsapp groups in many other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members. 

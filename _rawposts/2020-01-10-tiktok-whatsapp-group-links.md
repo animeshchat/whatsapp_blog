@@ -23,7 +23,7 @@ Tik Tok has become such a modern day youth addiction, sparking creativity in eve
 
 To join your favourite tik tok groups, all you need to do is click on the whatsapp group links below and start creating memories. Enjoy!
 
-!! insert_group_list("",["o","tik tok","musically","tiktok","tick tock"], "Tik Tok Whatsapp Groups","button",[0,25]) 
+!! insert_group_list("",["o","tik tok","musically","tiktok","tick tock"], "Tik Tok Whatsapp Groups","button",[0,25], "entertainment") 
 
 <br/>
 Hope you guys found what you were looking for. In case you want to check out whatsapp groups in many other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members. 

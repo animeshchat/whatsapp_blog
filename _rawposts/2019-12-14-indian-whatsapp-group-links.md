@@ -20,11 +20,11 @@ Whatsapp groups are actively searched out by a lot of Indians out there. Since w
 Bollywood is probably one of the biggest religions in India and has offered Indians worldwide with a wide range of songs. This is the place for all the music lovers to discuss their favourite old hindi songs, latest DJ Song and Party songs from 2019, best Bollywood Songs Youtube, best Bollywood Youtube videos, best Bollywood Comedy Scenes 2019, top mp3 song from 2019. Famous and talented playback singers such as Lata Mangeshkar, Alka Yagnik, Udit Narayan, Asha Bhonsle, Atif Aslam, Shaan, Kishore Kumar, Manna Dey, have given us melodies for multiple decades and entertained us. Lately, Bollywood music industry has seen a lot of remixes of the hit old hindi songs with a new beat or a punjabi twist which is like aged wine in a new packaging. Here we have listed an interesting mix of new and old hindi songs which caters to the audience across diverse age groups. Everyone from kids to adults will find discussion groups on their favourite singers. If you are a Bollywood buff you realize how important our songs are to the overall experience of a hindi movie, so let's get together in the whatsapp groups to enjoy the melodies and reminisce the old times and make new memories together. 
 To join your favourite Bollywood songs groups, all you need to do is click on the whatsapp group links below and start creating memories. Enjoy!
 
-!! insert_group_list("",["o","songs","music","mp3"], "Songs Whatsapp Groups","button",[0,25]) 
+!! insert_group_list("",["o","songs","music","mp3"], "Songs Whatsapp Groups","button",[0,25], "bollywood") 
 
 Now we will move on to some Ghazal Whatsapp group links because many of you must be fans of artists such as Ghulam Ali, Jagjit Singh, Bulleh Shah, Chitra Singh, and many other amazing Ghazal singers over a period of time. The old classics to the the new mixes in Ghazals have a special standing in the music industry. While Ghazals are not generally enjoyed by a mass audience, we have you chosen Sufi Lovers out there searching for it. The best Whatsapp Group links are mentioned below for you. So go ahead and join the group and do let us know what’s your all time favourite ghazal.
 
-!! insert_group_list("",["o","ghazals","music"],"Ghazal Whatsapp Group","button",[0,25]) 
+!! insert_group_list("",["o","ghazals","music"],"Ghazal Whatsapp Group","button",[0,25], "movies") 
 
 ## Indian cricket whatsapp group links
 
