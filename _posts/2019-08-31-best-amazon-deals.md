@@ -1,8 +1,8 @@
 ---
 layout: post
-title: UPDATED DAILY Best Amazon Deals | May 2020
+title: UPDATED DAILY Best Amazon Deals | July 2020
 description: "View daily curated lists for best speakers, phones, TVs and many more categories offering the best deals on Amazon "
-last_modified_at: 2020-05-26
+last_modified_at: 2020-07-27
 image: assets/images/best-amazon-deals-2019.jpg
 author: ab
 css: deals

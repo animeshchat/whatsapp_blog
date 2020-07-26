@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Latest **TIK TOK VIDEOS** WhatsApp Group Links | May 2020
+title:  Latest **TIK TOK VIDEOS** WhatsApp Group Links | July 2020
 description: "Explore the best tik tok whatsapp group links to receive the latest and funniest tik tok videos and popular tik tok songs"
-last_modified_at: 2020-05-26
+last_modified_at: 2020-07-27
 image: assets/images/tiktok-whatsapp-group-link.jpg
 author: vb
 tags: [ tik tok groups]
@@ -24,10 +24,10 @@ Tik Tok has become such a modern day youth addiction, sparking creativity in eve
 To join your favourite tik tok groups, all you need to do is click on the whatsapp group links below and start creating memories. Enjoy!
 
 <a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_2.png" /></a>
-<p><span>Mazedaar Masti Memes 🤣🤣&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/1025" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>Kannada Jokes&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/14296" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>tamil movies 🍿🎞️🎥&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/2121" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<p><span>MALLU 😁 MEMES&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/2095" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>📽️Bollywood News📽️&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/1028" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>Cricket News🏆&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/1026" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
-<p><span>DΞSI HIP HФP&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/2124" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 
 <br/>
 Hope you guys found what you were looking for. In case you want to check out whatsapp groups in many other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members.

@@ -4,4 +4,5 @@ User-agent: *
 Disallow: /assets/images/*IELTS*
 Disallow: /categories
 Disallow: /submit-group-app
+Disallow: /review-task
 Sitemap: https://whatsappgroups.app/sitemap.xml
