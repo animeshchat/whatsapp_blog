@@ -23,7 +23,7 @@ Tik Tok has become such a modern day youth addiction, sparking creativity in eve
 
 To join your favourite tik tok groups, all you need to do is click on the whatsapp group links below and start creating memories. Enjoy!
 
-<a href="https://play.google.com/store/apps/details?id=app.getboss.messenger" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_2.png" /></a>
+<a href="https://play.google.com/store/apps/details?id=app.getboss.groupapp" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" /></a>
 <p><span>Kannada Jokes&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/14296" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>tamil movies 🍿🎞️🎥&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/2121" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 <p><span>MALLU 😁 MEMES&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://getboss.app/pin/2095" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
