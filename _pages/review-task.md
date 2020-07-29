@@ -14,7 +14,7 @@ permalink: /review-task
   Use this link to download: 
   
   <button class="btn btn-success" type="submit" value="Submit">
-    <a style="color:white" href="https://play.app.goo.gl/?link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.getboss.messenger%26referrer%3Dutm_source%253Dreview_campaign%2526utm_medium%253Dreview_campaign">Download</a>
+    <a style="color:white" href="https://play.app.goo.gl/?link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.getboss.groupapp%26referrer%3Dutm_source%253Dreview_campaign%2526utm_medium%253Dreview_campaign">Download</a>
   </button>
   
   <br/>
@@ -39,7 +39,7 @@ permalink: /review-task
   <br/><br/>
   Use this link to go to play store:
   <button class="btn btn-success" type="submit" value="Submit">
-    <a style="color:white" href="https://play.app.goo.gl/?link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.getboss.messenger%26referrer%3Dutm_source%253Dreview_campaign%2526utm_medium%253Dreview_campaign">Click here</a>
+    <a style="color:white" href="https://play.app.goo.gl/?link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.getboss.groupapp%26referrer%3Dutm_source%253Dreview_campaign%2526utm_medium%253Dreview_campaign">Click here</a>
   </button>
 
   <br/><br/><br/>
