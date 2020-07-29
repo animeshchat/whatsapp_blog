@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earn Rs. 50 Cash in 5 Easy Steps | Indians Only
+title: Earn Rs. 30 Cash in 5 Easy Steps | Indians Only
 description: Complete small easy tasks to earn quick cash via Paytm or Google Pay. 
 permalink: /review-task
 
