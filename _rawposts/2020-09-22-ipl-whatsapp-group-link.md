@@ -29,12 +29,12 @@ Fantasy leagues have gained popularity in the recent years. Apps such as dream11
 !! insert_group_list("",["o","dream11","mega","winzo"],"IPL Whatsapp Groups","button",[0,25]) 
 
 
-## IPL Betting whatsapp group links 
+<!-- ## IPL Betting whatsapp group links 
 
 Apart from fantasy leagues, betting is also a large part of most sports events, and IPL in particularly. The betting scene for IPL is gigantic, and the network is getting stronger by the year. Here are some groups that you can use to get access to fun IPL betting whatsapp groups
 
-!! insert_group_list("",["o","IPL betting"],"IPL Betting Whatsapp Groups","button",[0,25]) 
-
+!! insert_group_list("",["o","bet"],"IPL Betting Whatsapp Groups","button",[0,25]) 
+-->
 
 
 ## IPL team whatsapp group links

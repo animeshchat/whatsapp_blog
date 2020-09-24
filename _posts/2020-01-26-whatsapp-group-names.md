@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Best WhatsApp Group Names | July 2020
+title:  Best WhatsApp Group Names | September 2020
 description: "Get ideas of the most creative whatsapp group names, be it friend group names, family group name or name of teams. You can find it all here."
-last_modified_at: 2020-07-27
+last_modified_at: 2020-09-24
 image: assets/images/whatsapp-group-names-2020.jpg
 author: vb
 tags: [ group names]
