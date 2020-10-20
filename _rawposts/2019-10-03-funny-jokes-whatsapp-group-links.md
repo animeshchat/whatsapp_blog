@@ -9,7 +9,8 @@ tags: [ funny dp, funny whatsapp status, whatsapp comedy video, whatsapp jokes, 
 featured: true
 hidden: false
 comments: false 
-rating: 
+rating:
+banner-js: //servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=1 
 summary: Tell me a joke, would you? These kind of questions come up rather frequently when most of us hang out with our group of friends. This is why we know that many of you are searching for funny jokes and some of you actively search for memes for whatsapp status, or funny memes for whatsapp to share with your friends and family. So why limit yourselves to just the known friend groups? There are a lot of whatsapp group links out there which have tons of jokes circulating around daily. Whatsapp group memes provides a great and simple opportunity to share a laugh with your loved ones. Through this post, we want to help you get access to funny whatsapp group for jokes and memes. The whatsapp group links listed on our post will act as a rich source of whatsapp group jokes, jokes in hindi for whatsapp, joke video for whatsapp etc., providing everything you are looking for. The best part is that it is free to join and you can be a part of as many groups as you want to. We’ll tell you all about how this is possible.
 ---
 
