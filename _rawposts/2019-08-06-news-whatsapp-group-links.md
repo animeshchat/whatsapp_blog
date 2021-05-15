@@ -74,7 +74,7 @@ So those were all the rules that you should keep in mind while joining whatsapp 
 
 Reading news is a great habit. People who regularly read news are the people who can have great conversations, crack job interviews and demand respect from others around them. And one of the best way to stay up to date with the latest news is to join active whatsapp groups that share news regularly. Some of the most active groups for Indian news and politics are listed below.
 
-!! insert_group_list("news", [], "News Group India", "anchor", [0,60], "news") !!
+!! insert_group_list("news", [], "News Group India", "anchor", [0,60]) 
 
 <br />
 ## Hindi News WhatsApp Groups
@@ -82,7 +82,7 @@ Reading news is a great habit. People who regularly read news are the people who
 If you prefer to follow the latest news and information Hindi, we have plenty of groups for you to select and join. Not only will you receive news and updates from all regions, districts, towns and cities in India, but also international news will be provided in Hindi. Not just that, news from popular and large Hindi newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list("", ["a", "hindi", "news"], "Hindi News WhatsApp Group India", "button", [0,100], "hindi") 
+!! insert_group_list("", ["a", "hindi", "news"], "Hindi News WhatsApp Group India", "button", [0,100]) 
 
 
 ## Politics WhatsApp Groups
@@ -104,7 +104,7 @@ Are you a cricket fan and want to follow latest cricket news not just from India
 If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list("", ["a", "tamil", "news"], "Tamil News WhatsApp Group India", "anchor", [0,100],  "south") 
+!! insert_group_list("", ["a", "tamil", "news"], "Tamil News WhatsApp Group India", "anchor", [0,100]) 
 
 <br />
 ## Kannada News WhatsApp Groups
@@ -112,7 +112,7 @@ If you prefer to follow the latest news and information in your language that is
 If you prefer to follow the latest news and information in your language that is Tamil, we have plenty of groups for you to select and join. Not only will you receive updates from regions, districts and cities in Tamil Nadu, but also national and international news will be provided in Tamil. Not just that, news from popular Tamil newspapers and publications will also be shared on these groups.
 
 
-!! insert_group_list("", ["a", "kannada", "news"], "Tamil News WhatsApp Group India", "button", [0,100], "south") 
+!! insert_group_list("", ["a", "kannada", "news"], "Tamil News WhatsApp Group India", "button", [0,100]) 
 
 
 <br />
