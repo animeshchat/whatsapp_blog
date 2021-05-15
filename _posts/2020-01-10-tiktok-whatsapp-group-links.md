@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Latest **TIK TOK VIDEOS** WhatsApp Group Links | October 2020
+title:  Latest **TIK TOK VIDEOS** WhatsApp Group Links | December 2020
 description: "Explore the best tik tok whatsapp group links to receive the latest and funniest tik tok videos and popular tik tok songs"
-last_modified_at: 2020-10-01
+last_modified_at: 2020-12-19
 image: assets/images/tiktok-whatsapp-group-link.jpg
 author: vb
 tags: [ tik tok groups]
@@ -23,7 +23,8 @@ Tik Tok has become such a modern day youth addiction, sparking creativity in eve
 
 To join your favourite tik tok groups, all you need to do is click on the whatsapp group links below and start creating memories. Enjoy!
 
-<p><span>👬Grow 10000 tiktok fans:&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/ImrwLciNms1983QDCzwMjC" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
+<a href="https://play.google.com/store/apps/details?id=app.getboss.groupapp" target="_blank"><img alt="creative" style="width:100%; margin-top:2em; margin-bottom:2em;" src="{{ site.baseurl }}/assets/images/promo_creative_2.png" /></a>
+<p><span>TikTok Clips&nbsp;&nbsp;&nbsp;<a target="_blank" class="restrict-width-parent" onclick="ga('send', 'event', {eventCategory: 'WhatsApp Group Link', eventAction: 'Click', eventLabel: event.target.href, transport: 'beacon'});" href="https://chat.whatsapp.com/invite/KnrsevBRkubG3w5MVizDEL" rel="nofollow" rel="noreferrer" class="btn btn-success"> Join Now</a></span></p>
 
 <br/>
 Hope you guys found what you were looking for. In case you want to check out whatsapp groups in many other categories, you can visit <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>  to obtain a list of all categories of whatsapp links available out there. Don’t forget to share your favourite groups amongst your friends so that you can all enjoy together. Feel free to have healthy interactions with other group members.
