@@ -14,6 +14,7 @@ summary: Hello PUBG lovers, this article has been specifically written for you. 
 
 ---
 
+
 Looking to disconnect from the real world and find some entertainment on your favourite messaging platform - WhatsApp? We’ve got you covered with a rich collection of fun and engaging WhatsApp group links. 
 
 WhatsApp groups are fun and popular because you get to join the conversations and help shape them by discussing and sharing what you love about a common topic of interest. 
@@ -22,6 +23,9 @@ Using the links mentioned on this platform you can join any group without the pe
 
 Isn’t this an attractive way to make new friends? Since there are no restrictions to the number of WhatsApp groups a person can join, you can choose to join any number, as long as you find them relevant to your interests. The best part - no need for any account or login and its <strong>completely free!</strong>
 
+<div style="max-width:800px; height: 100px; line-height: 100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=4"></script>
+</div>
 
 ## PUBG
 
@@ -45,6 +49,10 @@ Now that we have a clear understanding regarding the ease of joining WhatsApp gr
 Note: Once you get better, you can find PUBG tournament groups on the list and can earn money by participating in the tournaments listed on the group. We have also provided a separate list of groups for PUBG tournaments.
 
 So let’s get started. 
+
+<div style="max-width:800px; height: 100px; line-height: 100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=5"></script>
+</div>
 
 
 ## PUBG WhatsApp Group Rules
@@ -76,7 +84,10 @@ Some more online mobile groups for PUBG on WhatsApp are listed below. Browse and
 
 !! insert_group_list("pubg", [], "PUBG WhatsApp Group India", "link", [50, 100]) 
 
-<br />
+<div style="max-width:800px; height: 100px; line-height: 100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=6"></script>
+</div>
+
 ## PUBG Tournaments WhatsApp Group Links India
 
 Playing PUBG is not only a great way to test your skill level against quality players, but its also a great way to make money online. Assuming your PUBG gameplay has improved and you are now ready to start playing tournaments in order to earn some money, look through the list below to find whatsapp groups for <b>PUBG tournaments.</b>
@@ -90,6 +101,12 @@ If you're interested in pubg malayalam whatsapp group links, pubg tamil whatsapp
 ## WhatsApp Groups Joining Links 
 
 By now, you may have found the Active WhatsApp groups of your choice in the PUBG category. If you are interested in finding more WhatsApp group links in other categories as well, we have shared 10,000+ group links. To check out all the other categories that we have for you, please visit this post - <a href="{{site.baseurl}}/whatsapp-group-links">WhatsApp Group Links India 2019</a>. We regularly update the list of WhatsApp groups so that you can find more relevant groups with time. 
+
+<div style="max-width:800px; height: 100px; line-height: 100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=7"></script>
+</div>
+
+
 
 ## PUBG Stickers for WhatsApp
 

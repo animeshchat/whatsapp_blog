@@ -24,6 +24,9 @@ Another thing is that in order to join groups, users earlier had to ask the admi
 
 The "WhatsApp Groups - Invite Link" feature is very convenient for all whatsapp users. In order to join any group, you can simply click on the group invite link without needing any permission from any admin. The feature is that simple to use.
 
+<div style="max-width:300px; height:300px; line-height:300px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTQzOTA7c3F1YXJlLm1lZGl1bV9yZWN0YW5nbGU=&index=1"></script>
+</div>
 
 ## How to join WhatsApp Groups?
 
@@ -50,7 +53,10 @@ When you join whatsapp groups, it is important to be a good member of the group.
 
 So what are you waiting for? Start exploring the unlimited list of **new whatsapp group links** and send message on whatsapp.
 
-<br />
+<div style="max-width:300px; height:300px; line-height:300px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTQzOTA7c3F1YXJlLm1lZGl1bV9yZWN0YW5nbGU=&index=2"></script>
+</div>
+
 
 ## Indian Whatsapp Group Links
 
@@ -58,6 +64,9 @@ With whatsapp having become the most popular app, and with whatsapp launching th
 
 !! insert_group_list("", ["o","actors","actress","kohli","dhoni","ghazals","bollywood"], "Indian WhatsApp Group", "button", [0,50]) 
 
+<div style="max-width:800px; height:100px; line-height:100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=8"></script>
+</div>
 
 ## **News** WhatsApp Group Links
 
@@ -78,6 +87,10 @@ Specifically interested in staying updated with everything in Indian politics an
 <br />
 You'll find many more <a href="{{site.baseurl}}/news-whatsapp-group-links" target="_blank">News & Politics WhatsApp Groups here</a>.
 
+<div style="max-width:300px; height:300px; line-height:300px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTQzOTA7c3F1YXJlLm1lZGl1bV9yZWN0YW5nbGU=&index=3"></script>
+</div>
+
 
 <br />
 ## **PUBG** WhatsApp Group Joining Links
@@ -88,6 +101,11 @@ Below is a huge list of active groups for PUBG fans and gamers. You can join as 
 
 <br />
 The full list of <a href="{{site.baseurl}}/pubg-whatsapp-group-links-india" target="_blank">WhatsApp groups for PUBG Fans and Tournaments is here</a>.
+
+
+<div style="max-width:800px; height:100px; line-height:100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=9"></script>
+</div>
 
 
 
@@ -112,6 +130,11 @@ Are you crazy about online shopping and finding deals that save you a lot of mon
 You'll find many many more <a href="{{site.baseurl}}/shopping-deals-whatsapp-group-links" target="_blank">Online Shopping, Discounts, Deals, Loot WhatsApp Groups here</a>.
 
 
+<div style="max-width:800px; height:100px; line-height:100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=10"></script>
+</div>
+
+
 <br />
 ## **Shayari** WhatsApp Groups
 
@@ -129,6 +152,9 @@ Would you like to earn money while sitting at home? You can do that easily nowad
 
 
 !! insert_group_list("earn", [], "Earn Money WhatsApp Groups India", "anchor", [0,50], "recent") 
+<div style="max-width:800px; height:100px; line-height:100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=11"></script>
+</div>
 
 ## **Business** Whatsapp Group Link 
 
@@ -139,6 +165,11 @@ Interested in whatsapp business group links? We've got you covered. Whether you 
 ## Sports Whatsapp Group Links
 
 For all the cricket and football fans out there, we have the best list of whatsapp groups. Whether you are a Virat Kohli, Dhoni, Messi or Ronaldo fan, we've got a group for each of you. There are also groups which provide latest news updates related to your favourite sport. It's the best of both worlds really. Stay updated as well as communicate with people who share your passion for sports. Let's take a look at all the sports whatsapp group links: 
+
+<div style="max-width:800px; height:100px; line-height:100px">
+<script src="//servedby.eleavers.com/ads/ads.php?t=MjI4MzA7MTM4MTk7aG9yaXpvbnRhbC5sZWFkZXJib2FyZA==&index=12"></script>
+</div>
+
 
 <h4> Cricket Whatsapp Group Links</h4>
 
