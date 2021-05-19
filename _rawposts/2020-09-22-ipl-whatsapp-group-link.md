@@ -15,6 +15,8 @@ summary: IPL 2020 has begun and so has the excitement of all the avid cricket fa
 
 The t20 format, love for cricket in India, and loyal fan-following has made IPL a huge success. So much so, that majority of the cricket fans, and in particular the ipl fans, enjoy partaking in betting activities. Sports betting has always been a huge industry since loyal fans, who understand the sport, are confident about their odds of winning. Estimating odds is a tricky thing, however, betting on things we know tend to make us feel overconfident. That's what makes sports betting fun and causes a lot of people to search for online betting sites such as beet 365 and other betting groups. This is where whatsapp group links comes in handy as there are many relevant whatsapp groups suiting different purposes for cricket fans. So let's check them out.   
 
+<script data-cfasync="false" type="text/javascript" src="//bowerywill.com/lv/esnk/1842173/code.js" async id="__clb-1842173"></script>
+
 ## IPL Whatsapp Group Links
 
 Among all the cricket whatsapp group links, ipl groups are by far the most popular. This is not only because of the annual occurrence of the event, but also because of the sheer fan base the sport entails in a country like India. IPL enjoys one of the greatest fan following any sports league can enjoy across the world. It is therefore no surprise that ipl whatsapp groups are available for the fans and supporters everywhere. 

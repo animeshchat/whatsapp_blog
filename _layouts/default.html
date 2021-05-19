@@ -58,8 +58,6 @@
               <!--  <li class="nav-item">
                 <a class="btn btn-success" href="https://play.google.com/store/apps/details?id=app.getboss.groupapp" target="__blank">Download App</a>
                 </li>
-                
-               
                 {% include search-lunr.html %}
                 -->
             </ul>
@@ -72,39 +70,35 @@
 </nav>
 <!-- End Navigation
 ================================================== -->
-
 <div class="site-content">
-
-  <div class="container"> 
- 
+<!-- ClickAdu Banner Script -->
+<center> <script data-cfasync="false" type="text/javascript" src="//bowerywill.com/lv/esnk/1841833/code.js" async id="__clb-1841833"></script>
+</center>  
+<div class="container">
     <!-- Content
     ================================================== -->
     <div class="main-content">
       {{ content }}
     </div>
- 
     <!-- Bottom Alert Bar
     ================================================== -->
     <div class="alertbar bg-green">
     	<div class="container text-center pointer">
-        <a href="https://play.google.com/store/apps/details?id=app.getboss.groupapp" target="__blank">
+          <a href="https://play.google.com/store/apps/details?id=app.getboss.groupapp" target="__blank">
           <div class="alertbar-content">
     		
-            <div class="mr-2 v-center fc-white"> <b> Download App.</b> Better Groups than WhatsApp.</div>
+            <div class="mr-2 v-center fc-white"> <b> Download App.</b> Better Groups than WhatsApp. </div>
             <div class="playstore-image flex">
               <img class="v-center mh-100" src="{{ site.baseurl }}/assets/images/playstore.png" alt="Download Android App">
             </div>
           </div>
-        </a>
+          </a>
     	</div>
     </div>
-  
     <!-- Tags
     ================================================== -->
     {% include tags.html  %}
-
   </div>
-
   <!-- Begin Footer
   ================================================== -->
   <footer class="footer">
@@ -141,5 +135,6 @@
 {% if page.layout == 'post' and page.comments == true %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
+
 </body>
 </html>
