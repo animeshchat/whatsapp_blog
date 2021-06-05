@@ -49,11 +49,11 @@ post_class: post-template
 
             <!-- Static Boss App Creative  -->
             {% if site.lazyimages == "enabled" %}
-            <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank">
+    <!--<a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank"> -->
               <img style="width: 100%; margin-top:2em; margin-bottom:2em" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" alt="creative">
             </a>
             {% else %}
-            <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank">
+           <!-- <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank"> -->
               <img style="width: 100%; margin-top:2em; margin-bottom:2em" src="{{ site.baseurl }}/assets/images/promo_creative_1.png" alt="creative">
             </a>
             {% endif %}
@@ -84,11 +84,11 @@ post_class: post-template
             {% if page.image %}
 
             {% if site.lazyimages == "enabled" %}
-            <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank">
+            <!--<a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank"> -->
               <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
             </a>
             {% else %}
-            <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank">
+           <!-- <a href="https://broadfunnel.com/?utm_source=whatsappapps&utm_medium=display&utm_campaign=link" target="_blank"> -->
               <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
             </a>
             {% endif %}
